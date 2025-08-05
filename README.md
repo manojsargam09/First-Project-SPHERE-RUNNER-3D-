@@ -5,7 +5,7 @@
 THIS IS LOGO.
 </p>
 <hr>
-<img src = "https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/logoo.png"></img>
+<img src = "https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/logoo.png" height = "100" width = "100"></img>
 <hr>
 <br>
 <h2>Feature</h2>
