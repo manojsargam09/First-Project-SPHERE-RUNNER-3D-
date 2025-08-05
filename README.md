@@ -23,7 +23,14 @@
     <br>
     2.Press ➡️ to move right side.
   </p>
+  <h2>How to acess my game </h2>
+  <p>
+    Step 1: click on [SPHERERUNNER3D] and click raw then it start download.
+     <br>
+    Step 2:if your microsoft defender stopping please give access to this setup because its safe.
+     <br>
+    Step 3:after open of setup you can do how instructed and enjoy gameplay😁.
+  </p>
    <hr>
-</p>
 <p> NOTE: This is my first project and i do this because for learn basic things to my self.
 </p>
