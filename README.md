@@ -8,11 +8,11 @@ THIS IS MY GAME LOGO.
 <br>
 <img src = "https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/logoo.png" height = "100" width = "100"></img>
 <hr>
-<p>HERE SOME IMAGES
+<p>HERE SOME IMAGES.
         ⬇️
 </p>
 <br>
-<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Startpoint.png height = "100" width = "100"></img>
+<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Startpoint.png height = "200" width = "500"></img>
 <br>
 <img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Lossingpoint.png height = "100" width = "100"></img>
 <hr>
