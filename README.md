@@ -39,11 +39,11 @@ THIS IS MY GAME LOGO.
   </p>
   <h2>How to acess my game </h2>
   <p>
-    Step 1: click on [SPHERERUNNER3D] and click raw then it start download.
+    Step 1 : click on [SPHERERUNNER3D] and click raw then it start download.
      <br>
-    Step 2:if your microsoft defender stopping please give access to this setup because its safe.
+    Step 2 : if your microsoft defender stopping please give access to this setup because its safe.
      <br>
-    Step 3:after open of setup you can do how instructed and enjoy gameplay😁.
+    Step 3 : after open of setup you can do how instructed and enjoy gameplay😁.
   </p>
   <br>
   <p>
