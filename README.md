@@ -33,7 +33,7 @@
   </p>
   <br>
   <p>
-    i will provide all material i use to buit this game in UNITY ENGINE
+    i will provide all material i use to built this game in UNITY ENGINE.
   </p>
    <hr>
 <p> NOTE: This is my first project and i do this because for learn basic things to my self.
