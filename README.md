@@ -1,6 +1,12 @@
 <h1>SPHERE RUNNER</h1>
 <br>
-<p>ITS CLONE OF CUBE RUNNER GAME. </p>
+<p>ITS CLONE OF CUBE RUNNER GAME.
+<br>
+THIS IS LOGO.
+</p>
+<hr>
+<img src = "https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/logoo.png"></img>
+<hr>
 <br>
 <h2>Feature</h2>
 <p>
