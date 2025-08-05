@@ -1,13 +1,21 @@
-<h1>SPHERE RUNNER</h1>
+<h1>SPHERE RUNNER 3D</h1>
 <br>
 <p>ITS CLONE OF CUBE RUNNER GAME.
-<br>
-THIS IS LOGO.
-</p>
 <hr>
+THIS IS MY GAME LOGO.
+        ⬇️
+</p>
+<br>
 <img src = "https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/logoo.png" height = "100" width = "100"></img>
 <hr>
+<p>HERE SOME IMAGES
+        ⬇️
+</p>
 <br>
+<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Startpoint.png height = "400" width = "800"></img>
+<br>
+<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Lossingpoint.png height = "400" width = "800"></img>
+<hr>
 <h2>Feature</h2>
 <p>
 1.Only level 1.
