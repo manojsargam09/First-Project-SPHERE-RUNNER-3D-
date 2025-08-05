@@ -12,9 +12,9 @@ THIS IS MY GAME LOGO.
         ⬇️
 </p>
 <br>
-<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Startpoint.png height = "200" width = "500"></img>
+<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Startpoint.png height = "300" width = "600"></img>
 <br>
-<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Lossingpoint.png height = "100" width = "100"></img>
+<img src = https://github.com/manojsargam09/First-Project-SPHERE-RUNNER-3D-/blob/main/Lossingpoint.png height = "300" width = "600"></img>
 <hr>
 <h2>Feature</h2>
 <p>
