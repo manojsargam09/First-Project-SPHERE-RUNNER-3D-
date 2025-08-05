@@ -20,6 +20,7 @@
   <h2>Controls</h2>
   <p>
     1.Press ⬅️ to move left side.
+    <br>
     2.Press ➡️ to move right side.
   </p>
    <hr>
